@@ -28,11 +28,15 @@ You can build it first too
 
 ### Testing
 
-```npm run test```
+Test All Module
 
-### TS Coverage 
+```npm run test:all``` 
 
-100% 
+Test Specific file
+
+```npm run test -- ./src/test/fizzbuzz.test.ts```
+
+### TS Coverage [ 100% ]
 
 `npm run ts-coverage`
 
