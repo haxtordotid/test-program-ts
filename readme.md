@@ -1,5 +1,7 @@
 # Typescript NodeJS Simple Program 
 
+[![JS & TS icon](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
+
 List of Module Program
 - Fizz Buzz [Wiki](https://en.wikipedia.org/wiki/Fizz_buzz)
 - Palindrome [Wiki](https://en.wikipedia.org/wiki/Palindrome)
@@ -28,9 +30,9 @@ You can build it first too
 
 ```npm run test```
 
-### TS Coverage
+### TS Coverage 
 
-100%
+100% 
 
 `npm run ts-coverage`
 
